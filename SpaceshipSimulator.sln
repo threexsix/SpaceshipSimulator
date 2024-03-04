@@ -4,9 +4,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8ED774F4-D42
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{792FFE57-F1A0-47A4-9E2A-80F75FF2F8DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1", "src\Lab1\Lab1.csproj", "{EABA4888-E6C1-4ACC-856E-FBD34CEA3EDB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab", "src\Lab\Lab.csproj", "{EABA4888-E6C1-4ACC-856E-FBD34CEA3EDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab1.Tests", "tests\Lab1.Tests\Lab1.Tests.csproj", "{4CA1BCBB-A6F3-4ED0-9E5F-849FF093EDE1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab.Tests", "tests\Lab.Tests\Lab.Tests.csproj", "{4CA1BCBB-A6F3-4ED0-9E5F-849FF093EDE1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{21E20419-0C74-46BC-9D7D-A24CEEC29ACC}"
 	ProjectSection(SolutionItems) = preProject
